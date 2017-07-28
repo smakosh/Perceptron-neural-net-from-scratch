@@ -3,7 +3,7 @@ A neural net from scratch to predict gender based on height, weight &amp; shoe s
 
 # dependencies used 
 Numpy<br>
-Matplotlibv
+Matplotlibv<br>
 Jupyter Notebook<br>
 
 # Install dependencies
