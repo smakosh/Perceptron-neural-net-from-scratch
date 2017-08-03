@@ -1,6 +1,9 @@
 # gender_classifier
 A neural net from scratch to predict gender based on height, weight &amp; shoe size of the person
 
+You will find in the repo a jupyter notebook of one perceptron made from scratch & one with sklearn dependency
+You can tell the difference from the results given 😀
+
 # dependencies used 
 Numpy<br>
 Matplotlibv<br>
