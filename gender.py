@@ -77,8 +77,6 @@ for i in range(10000000) :
             target = point[3]
             cost_sum += np.square(prediction - target)
 
-        costs.append(cost_sum/len(data))
-
 # prediction
 for i in range(len(data)) :
     point = data[i]
