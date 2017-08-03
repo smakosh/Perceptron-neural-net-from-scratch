@@ -1,6 +1,6 @@
 import numpy as np
 
-# each point is weight, weight, shoe-size & gender (0.1)
+# each point is height, weight, shoe-size & gender (0.1)
 # 0 for male and 1 for female
 data = [[1.81, 0.80, 0.44, 0],
         [1.77, 0.70, 0.43, 0],
