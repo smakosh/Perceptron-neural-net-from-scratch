@@ -13,3 +13,6 @@ Jupyter Notebook<br>
 pip install numpy<br>
 pip install matplotlib<br>
 pip install jupyter<br>
+
+# Resources from where I learned
+Youtube channel : https://www.youtube.com/user/LogicGodTV
