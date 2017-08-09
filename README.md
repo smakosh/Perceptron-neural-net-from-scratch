@@ -13,6 +13,7 @@ Jupyter Notebook<br>
 Numpy<br>
 Matplotlibv<br>
 Jupyter Notebook<br>
+pip install -U scikit-learn<br>
 
 # Install dependencies
 pip install numpy<br>
