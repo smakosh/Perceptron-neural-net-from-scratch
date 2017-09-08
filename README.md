@@ -26,6 +26,6 @@ pip install pandas<br>
 # Resources from where I learned
 Youtube channel : https://www.youtube.com/user/LogicGodTV
 
-Medium article: https://medium.com/@ismailghallou/build-your-perceptron-neural-net-from-scratch-e12b7be9d1ef
+My medium article: https://medium.com/@ismailghallou/build-your-perceptron-neural-net-from-scratch-e12b7be9d1ef
 
-Code on Kaggle: https://www.kaggle.com/smakosh/perceptron-neural-net-from-scratch/notebook
+My code on Kaggle: https://www.kaggle.com/smakosh/perceptron-neural-net-from-scratch/notebook
