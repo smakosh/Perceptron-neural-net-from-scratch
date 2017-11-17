@@ -17,14 +17,14 @@ Jupyter Notebook<br>
 pip install -U scikit-learn<br>
 
 # Install dependencies
-pip install numpy<br>
-pip install matplotlib<br>
-pip install jupyter<br>
-pip install -U scikit-learn<br>
-pip install pandas<br>
+<pre>pip install numpy</pre>
+<pre>pip install matplotlib</pre>
+<pre>pip install jupyter</pre>
+<pre>pip install -U scikit-learn</pre>
+<pre>pip install pandas</pre>
 
 # Resources from where I learned
-Youtube channel : https://www.youtube.com/user/LogicGodTV
+Youtube channel from where I learned this : https://www.youtube.com/user/LogicGodTV
 
 My medium article: https://medium.com/@ismailghallou/build-your-perceptron-neural-net-from-scratch-e12b7be9d1ef
 
